@@ -1,0 +1,6 @@
+=== Cafe Bill ===
+Coffee x1 = Rs. 50.00
+Sandwich x2 = Rs. 240.00
+-----------------
+Total: Rs. 290.00
+Thank you! Please visit again.

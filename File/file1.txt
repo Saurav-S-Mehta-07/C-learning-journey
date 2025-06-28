@@ -1,0 +1,3 @@
+Hello, this is a test file.
+I am learning C programming and practicing file handling.
+Copying this file to another file using C code!

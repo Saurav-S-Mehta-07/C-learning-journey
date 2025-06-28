@@ -1,0 +1,5 @@
+1 Coffee 50
+2 Tea 30
+3 Sandwich 120
+4 Burger 150
+5 Pizza 300
